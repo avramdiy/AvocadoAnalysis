@@ -28,3 +28,7 @@
 
 ## 5th Commit
 
+- Finalized same visualizations for years 2017 & 2018
+
+- Adjusted the route to intake the year as an integer, and return each year's chart as its individual png and URL.
+
