@@ -16,6 +16,10 @@
 
 ## 3rd Commit
 
+- Visualize a line chart showing the average price for 'conventional' & 'organic' avocados. I want the x-axis to represent all months of 2015. I want the y-axis to represent the price. I want the conventional line to be orange, and the organic line to be green.
+
+- Route Created : /average_price_by_month_2015
+
 ## 4th Commit
 
 ## 5th Commit
